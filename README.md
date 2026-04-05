@@ -18,6 +18,6 @@ https://www.rw-designer.com/cursor-set/fluent-light-blue
 2. Hover over the interface to preview cursors
 3. Click the button to open mouse settings and change your cursor
 
-# License
+## License
 This project is under MIT license.
 Feel free to use, modify, and distribute the code as you wish.
